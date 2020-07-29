@@ -1,5 +1,6 @@
 # React App using Breaking Bad API 
-(https://github.com/timbiles/Breaking-Bad--API)
+Netlify Link: https://5f2191fafa866b4cac6ecb79--nervous-hodgkin-b71450.netlify.app/
+API: https://github.com/timbiles/Breaking-Bad--API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
